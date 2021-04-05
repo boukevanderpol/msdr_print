@@ -2347,7 +2347,7 @@ Below is a table of several important metacharacters:
 ### RegEx Functions in R
 
 So far we've been using `grepl()` to see if a regex matches a string. There are
-a few other built in reged functions you should be aware of. First we'll review
+a few other built in regex functions you should be aware of. First we'll review
 our workhorse of this chapter, `grepl()` which stands for "grep logical."
 
 
