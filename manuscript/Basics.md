@@ -2171,11 +2171,11 @@ grepl("s{2,3}", "Mississippi")
 grepl("i{2,3}", "Mississippi")
 [1] FALSE
 
-# Does "Mississippi" contain between 2 adjacent "iss" ?
+# Does "Mississippi" contain 2 adjacent "iss" ?
 grepl("(iss){2}", "Mississippi")
 [1] TRUE
 
-# Does "Mississippi" contain between 2 adjacent "ss" ?
+# Does "Mississippi" contain 2 adjacent "ss" ?
 grepl("(ss){2}", "Mississippi")
 [1] FALSE
 
